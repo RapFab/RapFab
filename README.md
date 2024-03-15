@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm pretty new to all of this but I'm slowly figuring everything out.
+Wish me luck!
 
 <!--
 **RapFab/RapFab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
